@@ -29,7 +29,7 @@ Cars
 c1 = Cars("Red","Ferrari","La Ferrari","Sports")
 c2 = Cars("Blue","Ford","Focus","Hatchback")
 c3 = Cars("Black","Audi","RS3","Sportback")
-
+c4 = Cars("White","Volkswagen","up!","Hatchback")
 '''
 Bikes
 '''
@@ -77,4 +77,5 @@ g1.park_bike(b1)
 g1.park_car(c2)
 g1.park_bike(b2)
 g1.park_car(c3)
+g1.park_car(c4)
 g1.check_garage()
